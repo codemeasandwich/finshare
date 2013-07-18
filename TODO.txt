@@ -1,0 +1,102 @@
+//<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Sun Certified Java Programmer Exam
+e-Book: The Complete Java 2 Certification Study Guide
+http://www.michael-thomas.com/tech/java/index.html
+http://java.about.com/cs/javacertification/tp/topscjpexams.htm
+//<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+help wizard
+unit search progress bar in search tab
+Max upload
+Max download
+upload view
+download view
+download muitle source
+download resume
+download folders(zip the folder then send & unZip) OR send one file at a time
+download groups(zip the list of file in the group then send & unZip)
+dynamic find new uesr to download from if this user is very slow
+loadbalance over the network
+share more the one root folter
+select file to share & not to share
+*.image/*.video/*.music filter
+*.image/*.video/*.music download into seraprite folders
+Max search results
+search ID3 tags
+soft search,download & upload by tabs on table head
+resuame temp download if they have just been droped in the folder
+search by lan speed
+search for file OR groups of files
+test to see if a file was been download before under a other name or something...
+search acurces as 100%
+add file size search
+if closed and other user is download with 1% left and can be got it if at 100% network useage wait (15 sec)
+download and put into file type folters
+create temp download file(hide from loach user & arraylist)
+libery(view file you have downloaded)
+perview parchely downloaded files
+search history
+search "word for word" i.e. dont brake up
+FIX search progress bars
+Extra max upload when computer is idle
+Adult content Password
+Adult content edit add/remove
+Adult content levels
+use real ini system
+updata log error file system
+Chat avater
+Chat Username / Hide Ip and show name
+Rebuild chat to use costem tags created by the progremer
+Private group Chat
+network game(fortrees/hacker)
+Launch finShare automatically with windows starts
+skin editer
+language fileS!! (use java lang basic)*Note this is VERY basic
+IPV6
+NIO, the New IO facilities
+finPack(file) forwareing + finPack(file) sending random -> (optimize routing)
+Network map
+network grafe
+Internet server addon
+cluster network
+Linux, mac & Solaris ver
+new network comatie system(fans,leach)
+HTTP user server view
+friends list
+Block file that are copyrighted(Media Protected content)
+only chat with people with the same language
+Darknets(new user can join if at lest 2 user say ok)/public
+medis fans/distributor
+user colour bland
+network healt
+hide zero size files
+Private message
+
+Limitation: You can invite up to 30 people into a private darknet. You can stream, but not download, music files. 
+
+Geek quotient: low. Normal people can do this.
+
+look and feel editer
+3D network view
+white papers
+basic 3D town, a console alowing stdents to enter basic java code to change the way the people move and objects in the town. conseaps(if,loops,array,vector,varables,objects,class,packages,funchions,overloading,proatyping, basics of treads-people can only do one thing at a time e.g. walk&not talk stop&talk BUT with treads they can walk and talk)
+
+http://mindprod.com/projects/installer.html
+http://mindprod.com/projects/deltacreator.html(adim)
+http://mindprod.com/projects/dynamicversioncontrol.html		*9
+JAVA sorce code to UML AND edit UML updates java code
+http://mindprod.com/projects/smartftp.html
+http://mindprod.com/projects/infinitedisk.html
+http://mindprod.com/projects/iptracer.html
+http://mindprod.com/projects/javafilesystem.html		*6
+http://mindprod.com/projects/scid.html				*8
+http://mindprod.com/projects/reinstaller.html
+http://mindprod.com/projects/sax.html
+http://mindprod.com/projects/serializedrecovery.html
+http://mindprod.com/projects/smartlayout.html
+
+Which Project to Pick?(http://mindprod.com/projects/projects.html)
+People often write me and ask “Which project should I pick?” as if I knew their hearts and abilities. Here is a strategy. First narrow down the choices to the ones that look about your level of difficulty. Then narrow down the ones to your interest in financial potential. Then narrow down projects to ones that involve servers or do not. Now weed out ones that look boring or esoteric to you. Now look for the project with most heart. Do you care about the result? You will need to care in the times ahead when the hard work comes of implementing, documenting, researching, and futzing about to get it to work. For children, video games are the usual choice. For adults, it can be anything. Further, you don't have to pick one of my projects. Let one of mine inspire you to create one your own. Think in terms of your own interests and hobbies. What would be useful? Think about the frustrations you have had with software. What sort of better mousetrap does the world need?
+
+http://www.csun.edu/~renzo/gradstud.htm
